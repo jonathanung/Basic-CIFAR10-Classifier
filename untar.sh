@@ -1,0 +1,1 @@
+tar -xzf cifar-10-python.tar.gz
